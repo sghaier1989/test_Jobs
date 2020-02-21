@@ -90,4 +90,23 @@ exports.jobs = [
         "publishdate": "06/02/2017",
         "lastupdate": "06/02/2017"
     }
+	,
+    {
+        "id": 6,
+        "title": "Développeur Angular",
+        "company": "Palindrome",
+        "city": "Laval",
+        "zipcode": 53000,
+        "description": "'Engage le jeu que je le gagne' : c'est ce que tu pourras déclarer si tu maîtrises React, Redux et Node. Si en plus tu sais réparer un 'radar nu' et que tu habites sur 'un roc cornu', le poste est fait pour toi. On a déménagé à Laval pour aller au bout de notre obsession. Pas de babyfoot chez nous : on fait ... du Kayak :)",
+        "contract": "CDI",
+        "salary": 0,
+        "currency": "euros",
+        "startdate": "09/01/2017",
+        "experience": "senior",
+        "status": "cadre",
+        "area": "Ouest",
+        "field": "le monde du livre",
+        "publishdate": "06/02/2017",
+        "lastupdate": "06/02/2017"
+    }
 ]
