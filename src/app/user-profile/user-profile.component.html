@@ -1,0 +1,11 @@
+<div *ngIf="decodetoken">
+  {{ decodetoken | json}}
+</div>
+<div *ngIf="!decodetoken">
+  Pas de resultat à afficher
+</div>
+
+
+<div *ngIf="isAdmin">
+  Admin
+</div>
